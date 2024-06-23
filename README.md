@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+<div align="center">
+ 
  <img src="https://skillicons.dev/icons?i=php" height="30" alt="PHP"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="C#"  />
@@ -20,8 +21,8 @@
   <img src="https://skillicons.dev/icons?i=nginx" height="30" alt="NGINX over apache"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MariaDB"  />
-
-
+<br>
+</div>
 Projects
 - Duga.to Uncensored Email Provider
 - Shuriken.pm Privacy Search Engine
