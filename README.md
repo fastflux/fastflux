@@ -29,5 +29,5 @@ Projects<br><br>
 - Paste.Center Encrypted pastebin<br>
 
 Contact
-- shade <at> duga.to
+- shade@duga.to
 - t.me/backup_sql
