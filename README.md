@@ -23,10 +23,11 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MariaDB"  />
 <br>
 </div>
+<p align="left">
 Projects
-- Duga.to Uncensored Email Provider
-- Shuriken.pm Privacy Search Engine
-- Paste.Center Encrypted pastebin
+- Duga.to Uncensored Email Provider<br>
+- Shuriken.pm Privacy Search Engine<br>
+- Paste.Center Encrypted pastebin<br>
 
 Contact
 - shade <at> duga.to
