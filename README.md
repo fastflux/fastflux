@@ -24,7 +24,7 @@
 <br>
 </div>
 <p align="left">
-Projects
+Projects<br>
 - Duga.to Uncensored Email Provider<br>
 - Shuriken.pm Privacy Search Engine<br>
 - Paste.Center Encrypted pastebin<br>
