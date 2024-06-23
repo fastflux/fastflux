@@ -9,7 +9,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="C#"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="RUST (a bit)"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS"  />
   <img width="12" />
@@ -24,7 +23,7 @@
 <br>
 </div>
 <p align="left">
-Projects<br>
+Projects<br><br>
 - Duga.to Uncensored Email Provider<br>
 - Shuriken.pm Privacy Search Engine<br>
 - Paste.Center Encrypted pastebin<br>
