@@ -9,7 +9,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="C#"  />
   <img width="12" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="JS"  />
